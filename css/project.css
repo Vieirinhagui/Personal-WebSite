@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+}
+
+.navbar{
+    width: 100vw;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #B1B2FF;
+}
+.logo{
+    width: 10vw;
+    height: 95%;
+}
+
+.bnt-navbar a{
+    font-size: 28px;
+    margin: 0 15px 0 15px;
+    text-decoration: none;
+    color: black;
+}
+.bnt-navbar a:hover{
+    color:white;
+}
